@@ -122,7 +122,7 @@ Microsoft 365 Backup is a pay-as-you-go offering that charges based on consumpti
 
 We partner with many independent software vendors (ISVs) to provide differentiated versions of their applications integrated with the Microsoft 365 Backup Storage platform—all providing the same underlying performance value proposition for your Microsoft 365 data.
 
-For a partner application, operation of the Microsoft 365 Backup tool will be managed and paid for entirely through the partner's application. Those applications have the ability to provide a single pane of glass for all of your data estates that require backups, and they might provide more enhanced experiences or workflows.
+For a partner application, operation of the Microsoft 365 Backup tool will be managed and paid for entirely through the partner's application. Applications, such as [NAKIVO](https://www.nakivo.com/microsoft-office-365-backup/), have the ability to provide a single pane of glass for all of your data estates that require backups, and they might provide more enhanced experiences or workflows.
 
 ## Multi-geo environments
 
